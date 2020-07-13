@@ -3,7 +3,7 @@
 #### {This is about the start of my journey to software development}, {10.07.2020}
 #### By **{Joe Kaguchu}**
 ## Description
-{This application is meant to show my all about what i aspire to know and short brief of where I come from, the URL is https://github.com/jkag983/IMPRESSION.git}
+{This application is meant to show my all about what i aspire to know and short brief of where I come from, the URL is https://github.com/jkag983/Portfolio.git}
 
 ## Known Bugs
 {This application doest not have any bug}
