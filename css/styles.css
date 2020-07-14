@@ -5,19 +5,18 @@ h1 {
 p {
   color: #800000;
 }
+image {
+  border-left: 2px;
+}
 .experience {
   font-style: italic;
   font-size: 20px;
 }
-.school {
-  font-weight: bold;
-  font-style: oblique;
-  font-size: 20px;
-  color: blue;
-}
+
 .box {
   border-left: 2px  solid black;
-  border-right: 4px solid black;
+  margin-right: 100px;
+  border-right: 2px solid black;
   border-top: 6px solid black;
   border-bottom: 8px solid black;
 }
@@ -29,6 +28,7 @@ p {
   float: left;
   margin-top: 0px;
   padding-top: 20px;
+
 }
 body {
   background-image: url(../images/4683.jpg);
@@ -43,5 +43,10 @@ h4 {
   float: right;
 }
 .interests {
+  float: left;
+
+}
+.hobbies {
+  border-left: 20px;
   float: left;
 }
