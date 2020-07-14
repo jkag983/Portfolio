@@ -1,5 +1,5 @@
 h1 {
-  color: #f7325e;
+  color: #000000;
   font-family: sans-serif;
 }
 p {
@@ -31,8 +31,7 @@ p {
   padding-top: 20px;
 }
 body {
-  
-
+  background-image: url(../images/4683.jpg);
 }
 h3 {
   font-size: 20px;
