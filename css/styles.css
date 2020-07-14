@@ -1,3 +1,10 @@
+h1 {
+  color: #f7325e;
+  font-family: sans-serif;
+}
+p {
+  color: #800000;
+}
 .experience {
   font-style: italic;
   font-size: 20px;
@@ -8,8 +15,12 @@
   font-size: 20px;
   color: blue;
 }
-
-
+.box {
+  border-left: 2px  solid black;
+  border-right: 4px solid black;
+  border-top: 6px solid black;
+  border-bottom: 8px solid black;
+}
 .main {
 
 }
@@ -20,7 +31,7 @@
   padding-top: 20px;
 }
 body {
-  background-color: #D4B996FF;
+  
 
 }
 h3 {
